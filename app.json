@@ -34,7 +34,7 @@
     },
     "EDIT_SLEEP_TIME_OUT": {
       "description": "Time to wait before edit message",
-      "value": "15",
+      "value": "0",
       "required": false
     },
     "FORCE_DOCUMENTS": {
@@ -69,12 +69,12 @@
     },
     "MAX_YTPLAYLIST_SIZE": {
       "description": " Max size of a playlist that is allowed (Number of videos)",
-      "value": "20",
+      "value": "2000",
       "required": false
     },
     "MAX_TORRENT_SIZE": {
       "description": "Max size of the torrent allowed",
-      "value": "10",
+      "value": "3000",
       "required": false
     },
     "BOT_CMD_POSTFIX": {
