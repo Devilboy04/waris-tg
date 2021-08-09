@@ -1,9 +1,9 @@
 import setuptools
 
 setuptools.setup(
-    name="tgtk",
+    name="toolkit",
     version="1.2.2",
-    author="reaitten",
+    author="warisali",
     description="A Telegram Bot written in Python to mirror files on the internet onto Telegram",
     long_description=open('README.md', 'r', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
