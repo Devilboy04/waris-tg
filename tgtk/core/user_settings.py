@@ -24,7 +24,7 @@ no = "✖"
 yes = "✔"
 # Central object is not used its Acknowledged 
 tordb = tkdb()
-header =  '<b>tgtk - a telegram leecher bot.\n</b>\n<u>user settings menu</u>'
+header =  '<b>**ToolKit** By Warisali.\n</b>\n<u>user settings menu</u>'
 async def handle_user_setting_callback(e):
     db = tordb
     sender_id = str(e.sender_id)
